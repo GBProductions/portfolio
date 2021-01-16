@@ -1,3 +1,9 @@
 body {
     background-image: url('../img/black-linen.png');
 }
+
+.jumbotron {
+    background-image: url('../img/rainbow.jpeg');
+    text-align: center;
+    border: black;
+}
