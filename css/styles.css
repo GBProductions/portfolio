@@ -16,8 +16,13 @@ body {
     border-radius: 10%;
     border-style: groove;
     padding: 5px;
+    text-align: center;
 }
 
 .center {
     text-align: center;
+}
+
+.left {
+    text-align: left;
 }
