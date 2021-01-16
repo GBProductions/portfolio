@@ -1,6 +1,7 @@
 # _Garrett Brown's Portfolio_
 
-#### _A portfolio highlighting Garrett Brown's coding experience., January 15th 2021_
+#### _A portfolio highlighting Garrett Brown's coding experience._
+_January 15th 2021_
 
 #### By _**Garrett Brown**_
 
