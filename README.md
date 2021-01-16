@@ -17,8 +17,9 @@ _A webpage built to showcase the biographical information of Garrett Brown, as w
 * _In terminal, type 'code .' and press enter to open project in VS Code._
 * _Right click on 'index.html' and select 'Open with Live Server' to view page in your favorite web browser._
 
+* _To view website via GitHub Pages, access the link through 'https://gbproductions.github.io/portfolio/'_
 
-*********link to site on GitHub Pages {LINK TO GITHUB PAGES}
+
 
 
 ## Known Bugs
