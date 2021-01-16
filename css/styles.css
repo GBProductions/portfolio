@@ -7,3 +7,17 @@ body {
     text-align: center;
     border: black;
 }
+
+.sidebar {
+    background-color: white;
+    width: 30%;
+    float: left;
+    border-color: black;
+    border-radius: 10%;
+    border-style: groove;
+    padding: 5px;
+}
+
+.center {
+    text-align: center;
+}
