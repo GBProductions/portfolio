@@ -18,6 +18,9 @@ _A webpage built to showcase the biographical information of Garrett Brown, as w
 * _Right click on 'index.html' and select 'Open with Live Server' to view page in your favorite web browser._
 
 
+*********link to site on GitHub Pages {LINK TO GITHUB PAGES}
+
+
 ## Known Bugs
 
 _There are currently no known bugs._
