@@ -26,3 +26,22 @@ body {
 .left {
     text-align: left;
 }
+
+.column1 {
+    width: 300px;
+    float: left;
+    padding: 5px;
+}
+
+.column1 img {
+    width: 300px;
+    border-color: black;
+    border-radius: 10px;
+    border-style: solid;
+}
+
+.column2 {
+    width: 300px;
+    float: right;
+    padding: 5px;
+}
