@@ -31,6 +31,7 @@ body {
     width: 300px;
     float: left;
     padding: 5px;
+    padding-bottom: 5%;
 }
 
 .column1 img {
@@ -38,10 +39,14 @@ body {
     border-color: black;
     border-radius: 10px;
     border-style: solid;
+    float: left;
 }
 
 .column2 {
     width: 300px;
-    float: right;
+    float: left;
     padding: 5px;
+    border-color: black;
+    border-radius: 10px;
+    border-style: solid;
 }
